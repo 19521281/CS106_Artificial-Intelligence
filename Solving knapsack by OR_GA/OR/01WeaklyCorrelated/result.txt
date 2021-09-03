@@ -1,0 +1,10 @@
+n00050.kp: Total value = 15768, Total weight:14232, Time:0.0010001659393310547
+
+n00100.kp: Total value = 31064, Total weight:29013, Time:0.0
+
+n00200.kp: Total value = 56976, Total weight:51563, Time:0.0009975433349609375
+
+n00500.kp: Total value = 139258, Total weight:127276, Time:0.002997875213623047
+
+n01000.kp: Total value = 273052, Total weight:245972, Time:0.006998538970947266
+
